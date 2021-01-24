@@ -9,7 +9,7 @@
     {
       "id": 2,
       "title": "You can not..",
-      "details": "Delete/Update/Edit/Add Projects/Plans because it data is not coming from a real server 😉, It's just a testing json place holder file that has uploaded in git repo. But you can perform all the actions without changes original data.",
+      "details": "Delete/Update/Edit/Add Projects/Plans because data are not coming from a real server 😉, It's just a testing json place holder file that has uploaded in git repo. But you can perform all the actions without changes original data.",
       "complete": false
     },
     {
