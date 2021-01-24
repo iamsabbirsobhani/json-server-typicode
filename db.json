@@ -1,6 +1,12 @@
 {
   "projects": [
     {
+      "id": 1,
+      "title": "To buy BlackHouse",
+      "details": "Planning to buy BlackHouse for 3.6trillion dollers only 😘"
+      "complete": false
+    },
+    {
       "id": 2,
       "title": "Make marketing emails 🙂❤",
       "details": "Eaque eveniet numquam, libero omnis unde corporis quo autem ea, iste neque natus consectetur suscipit incidunt laboriosam dicta facere cupiditate qui? Voluptas! My first update 🙂",
