@@ -43,7 +43,7 @@
       "id": 7
     },
     {
-      "title": "ViuJS",
+      "title": "VeuJS",
       "details": "Very nice framework",
       "complete": false,
       "id": 8
@@ -81,6 +81,12 @@
     {
       "title": "This is final blog",
       "details": "this blog is after changing warning.",
+      "complete": false,
+      "id": 15
+    },
+    {
+      "title": "Wait tap me please 🙏",
+      "details": "Thank you for checking my project. All the best. Good Luck 🙂",
       "complete": false,
       "id": 15
     }
