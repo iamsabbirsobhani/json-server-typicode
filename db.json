@@ -2,14 +2,14 @@
   "projects": [
     {
       "id": 1,
-      "title": "To buy BlackHouse..tap here for details",
-      "details": "I plan to buy BlackHouse for only 3.6 trillion dollers only 😘, see you in there",
+      "title": "To buy BlackHouse..tap here",
+      "details": "I plan to buy BlackHouse for only 3.6 trillion dollers 😘, see you in there",
       "complete": false
     },
     {
       "id": 2,
       "title": "You can not..",
-      "details": "Delete/Update/Edit/Add Projects/Plans because, data are not coming from a real server 😉, It's just a testing json place holder file that has uploaded in git repo. But you can perform all the actions without changes original data.",
+      "details": "Delete/Update/Edit/Add Projects/Plans because, data is not coming from a real server 😉, It's just a testing json place holder file that has uploaded in git repo. But you can perform all the actions without changes original data.",
       "complete": false
     },
     {
